@@ -1,4 +1,5 @@
 # patikainsertionsortprojesi1
+www.patika.dev
 ALGORİTMALAR PROJE 1
 1.CEVAP
 a)insertion sort aşamaları
